@@ -4,7 +4,7 @@ This is a simple react app with infinite scroll. It's my Second project of 20 re
 
 # Live Demo
 
-This is a simple react app with infinite scroll. It's my Second project of 20 react projects I plan to finish within twenty days.
+https://20days-react-infinite-scroll.vercel.app/
 
 ## Available Scripts
 
